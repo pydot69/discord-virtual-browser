@@ -11,3 +11,4 @@ Este repositório serve para:
 > Nota!
 > - Este bot ainda está em desenvolvimento!
 >   [Entrar no servidor do discord](https://discord.gg/S55PtKWudY)
+- [Comandos](./info/commands.md)
