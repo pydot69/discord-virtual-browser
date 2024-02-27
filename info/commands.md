@@ -1,5 +1,5 @@
 # Comandos!
-Nos canal `` #Pesquiasr `` tu podes pesquiar algumas urls, mas para pegar as urls, digite $google.urls e mande
+Nos canal `` #Pesquiasr `` tu podes pesquiar algumas urls, mas para pegar as urls, digite $get $urls e mande
 Para mandar dados ou pegar:
 > Digite $POST <informação1> <informação2>
 > ex: $POST $search como funciona o bot?
