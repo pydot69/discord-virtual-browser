@@ -6,4 +6,4 @@ Para mandar dados ou pegar:
 >  - $POST -> comando para postar uma informação(fica guardada globalmente)
 >  - $search -> modo de uso/chave -> uso de pesquisa, geralmente usado no `` sw://pydot.google.web ``
 >  - "como funciona o bot" -> o valor da chave -> será mandado para conseguir uma resposta com o valor.
-enfim, isto ainda está em desenvolvimento!
+- enfim, isto ainda está em desenvolvimento!
