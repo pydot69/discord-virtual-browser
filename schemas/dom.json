@@ -1,0 +1,44 @@
+{
+    "typo": "discord-markdown-basic",
+    "pack": [
+        {
+            "object": "text",
+            "value": "<str> Here!"
+        },
+        {
+            "object": "title",
+            "value": "<str> Here!"
+        },
+        {
+            "object": "subtitle",
+            "value": "<str> Here!"
+        },
+        {
+            "object": "tinytitle",
+            "value": "<str> Here!"
+        },
+        {
+            "object": "link",
+            "value": {
+                "url": "<str:url> Here!",
+                "text": "<str> Here!"
+            }
+        },
+        {
+            "object": "pyde-link",
+            "value":{
+                "url": "<DOMAPI: url> Here!",
+                "text":"<str> Here!"
+            }
+        },
+        {
+            "object": "pack",
+            "value": [
+                {
+                    "object": "text",
+                    "value": "<str> Here!"
+                }
+            ]
+        }
+    ]
+}
